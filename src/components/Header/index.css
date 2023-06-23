@@ -1,0 +1,10 @@
+.nav-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+    /* border: 1px solid black; */
+}
+.website-logo{
+    height: 50px;
+    width: auto;
+}

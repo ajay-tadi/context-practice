@@ -1,0 +1,12 @@
+.playtime-description-container{
+    display: flex;
+    
+}
+.playtime-container{
+    width: 70%;
+    margin-right: 50px;
+}
+.playtime-games-image{
+    height: 160px;
+    width: auto;
+}
