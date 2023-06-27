@@ -8,6 +8,12 @@ const langOptions = [
   {id: 3, value: 'TE', language: 'తెలుగు'},
 ]
 
+const langOfptions = [
+  {id: 1, value: 'EN', language: 'English'},
+  {id: 2, value: 'HI', language: 'हिंदी'},
+  {id: 3, value: 'TE', language: 'తెలుగు'},
+]
+
 const Header = (props) => {
   // <LanguageContext.Consumer>
   //   {value => {
@@ -18,6 +24,7 @@ const Header = (props) => {
   const {changeLanguage,activeLanguage} = props;
   const onChangeLanguage = event => {
     changeLanguage(event.target.value)
+    console.log(changeLanguage)
   }
   return (
     <nav className="nav-header">
