@@ -1,3 +1,10 @@
+Windows Home:
+![image](https://github.com/user-attachments/assets/914ba410-1374-448c-beea-976f498c09db)
+![image](https://github.com/user-attachments/assets/43ce5602-1a85-4ae0-9887-6acd67ac9777)
+![image](https://github.com/user-attachments/assets/e7cfc8ed-c803-4d7f-a1e4-e9bcbe33ecc9)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
